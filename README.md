@@ -3,7 +3,6 @@ This theme is inspired mainly by futuristic UI, I wanted to reproduce them in a 
 ---
 ![dark](https://i.imgur.com/SiN9CnO.png) #0f1014 ![red](https://i.imgur.com/xr3LEqS.png) #ed0c34 ![blue](https://i.imgur.com/rHgIcO0.png) #72869e 
 ![main](https://i.imgur.com/TJztYvd.png) 
-![Placeholder Image](https://imgur.com/TJztYvd)
 
 #### Programs shown in the previews
 - Dolphin
