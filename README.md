@@ -26,5 +26,5 @@ Wallpaper is generated through [pscircle](https://gitlab.com/mildlyparallel/psci
 ### Credits
 - [taylor85345](https://github.com/taylor85345/garden-hyprland-dotfiles) for hyprland config and neon fliker.
 - [linuxmobile](https://github.com/linuxmobile/hyprland-dots) for the waybar config.
-- [adi1090x](https://github.com/taylor85345/garden-hyprland-dotfiles)
+- [adi1090x](https://github.com/taylor85345/garden-hyprland-dotfiles) for the new rofi themes
 
