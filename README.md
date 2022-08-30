@@ -1,6 +1,8 @@
-### Dotfile 2022 - FUI
+## Dotfile 2022 - FUI
 This theme is inspired mainly by futuristic UI, I wanted to reproduce them in a window manager. This theme achives this by using specific colors, my plan was to create a everything in awesome window manager but since my skills are lacking and don't have enough time to dedicate to this I gave up on that and decided this route. Hyprland provides a good enviorment for me to work with.
---- 
+---
+![dark](https://i.imgur.com/SiN9CnO.png) #0f1014 ![red](https://i.imgur.com/xr3LEqS.png) #ed0c34 ![blue](https://i.imgur.com/rHgIcO0.png) #72869e 
+![main](https://i.imgur.com/TJztYvd.png) 
 ![Placeholder Image](https://imgur.com/TJztYvd)
 
 #### Programs shown in the previews
@@ -14,13 +16,13 @@ Wallpaper is generated through [pscircle](https://gitlab.com/mildlyparallel/psci
 
 ### More Screenshots
 #### Dolphin & Btop
-![Placeholder Image](https://imgur.com/C45ula7)
+![file manager and process](https://i.imgur.com/C45ula7.png)
 #### Spotify
-![Placeholder Image](https://imgur.com/4KxrwxY)
+![music](https://i.imgur.com/4KxrwxY.png)
 #### Rofi Launcher
-![Placeholder Image](https://imgur.com/OCQjBvw)
+![launcher](https://i.imgur.com/OCQjBvw.png)
 #### Rofi - Powermenu
-![Placeholder Image](https://imgur.com/LefTtzA)
+![powermenu](https://i.imgur.com/LefTtzA.png)
 
 ### Credits
 - [taylor85345](https://github.com/taylor85345/garden-hyprland-dotfiles) for hyprland config and neon fliker.
