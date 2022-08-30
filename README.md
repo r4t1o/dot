@@ -1,5 +1,5 @@
 ## Dotfile 2022 - FUI
-This theme is inspired mainly by futuristic UI, I wanted to reproduce them in a window manager. This theme achives this by using specific colors, my plan was to create a everything in awesome window manager but since my skills are lacking and don't have enough time to dedicate to this I gave up on that and decided this route. Hyprland provides a good enviorment for me to work with.
+This theme is inspired mainly by futuristic UI, I wanted to reproduce them in a window manager.
 ---
 <img src="https://i.imgur.com/SiN9CnO.png" alt="dark" width="50"/> #0f1014 <img src="https://i.imgur.com/xr3LEqS.png" alt="dark" width="50"/> #ed0c34 <img src="https://i.imgur.com/rHgIcO0.png" alt="dark" width="50"/> #72869e 
 ![main](https://i.imgur.com/TJztYvd.png) 
